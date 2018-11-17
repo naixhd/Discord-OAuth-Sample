@@ -1,0 +1,28 @@
+{
+  "name": "discordoauthexample",
+  "version": "0.0.1",
+  "description": "Oauth2 fpr Discord-API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "as"
+  },
+  "keywords": [
+    "discord",
+    "ouath2"
+  ],
+  "author": "Lee",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "btoa": "^1.1.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "node-fetch": "^2.0.0",
+    "request": "^2.83.0"
+  }
+}
